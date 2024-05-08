@@ -1,2 +1,2 @@
-# django-selenium
-django web test automation using selenium
+# python-django-selenium
+python and django web test automation using selenium
